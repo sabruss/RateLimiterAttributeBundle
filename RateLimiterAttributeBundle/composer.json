@@ -1,0 +1,15 @@
+{
+    "name": "sabrus/rate-limiter-attribute-bundle",
+    "description": "Rate Limiter Attribute Bundle",
+    "authors": [
+        {
+            "name": "Sabrus",
+            "email": ""
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Sabrus\\Bundle\\RateLimiterAttributeBundle": ""
+        }
+    }
+}
